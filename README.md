@@ -23,7 +23,7 @@ create a new machine. I then selected my windows server “iso file” that
 I downloaded earlier. Feel free to “skip the unattended install to
 quicken the process.
 
-<img src="./media/image1.png" style="width:5.83333in;height:3.08333in"
+<img src="/image1.png" style="width:5.83333in;height:3.08333in"
 alt="Image 2" />
 
 Hardware Specifications:
