@@ -1,4 +1,4 @@
-[AD.md](https://github.com/user-attachments/files/17611994/AD.md)Active-dir-media
+(https://github.com/user-attachments/files/17611994/AD.md)Active-dir-media
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-[Uploading AD.md…](A Windows Active Directory How-To Set Up:
+(A Windows Active Directory How-To Set Up:
 
 Introduction: Step \#1
 
