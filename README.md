@@ -1,4 +1,4 @@
-[AD.md](https://github.com/user-attachments/files/17611994/AD.md)Active-dir-media
+(https://github.com/user-attachments/files/17611994/AD.md)Active-dir-media
 
 
 
